@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jjenksy/jjenksy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to John Jenkins's GitHub Page
+I have many ongoing and past projects stored in my Github repos. I am using github pages to describe and organize the projects.
 
 ### Markdown
 
